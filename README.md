@@ -11,7 +11,7 @@
 
 **Email:** rameshmangalagiri33@gmail.com
 
-**Phone: +91 9966904179
+**Phone:** +91 9966904179
 
 **Address:** Tiruvuru
 
