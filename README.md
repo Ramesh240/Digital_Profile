@@ -5,14 +5,19 @@
  - I am Ramesh studyin in RVR & JC college. I had developed.
 
 #### Personal Details
-**Name: **Ramesh M**
-**Father's Name: Naga Raju M 
+**Name:** Ramesh M
+
+**Father's Name:** Naga Raju M
+
 **Email:** rameshmangalagiri33@gmail.com
+
 **Phone: +91 9966904179
-**Address: ** Tiruvuru
+
+**Address:** Tiruvuru
 
 #### Educational Details
--**B.tech**
+
+**B.tech**
   - RVR&JC college of engineering.
   - Guntur,Ap, India
   - CSE
@@ -23,6 +28,7 @@
 - vijayawada
 - mpc
 - Year - II
+- marks - 964
 **SSC**
 - Ravindhra bharathi school
 - Tiruvuru,AP, India
@@ -44,3 +50,8 @@
 - Hindi
 
 ### Certification 
+- Machine learning using pyhton - skifilabs
+- Bigdata analytics - Future Learn
+- c languge - Nptel
+- C++ - Spoken tutorials
+- java - Nptel
