@@ -1,10 +1,10 @@
 ### Ramesh Mangalgiri
 ----------------------------
 
-#### About:
+#### About
  - I am Ramesh studyin in RVR & JC college. I had developed.
 
-#### Personal Details:
+#### Personal Details
 **Name: **Ramesh M**
 **Father's Name: Naga Raju M 
 **Email:** rameshmangalagiri33@gmail.com
