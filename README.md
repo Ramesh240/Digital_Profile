@@ -5,15 +5,11 @@
  - I am Ramesh studyin in RVR & JC college. I had developed.
 
 #### Personal Details
-**Name:** Ramesh M
-
-**Father's Name:** Naga Raju M
-
-**Email:** rameshmangalagiri33@gmail.com
-
-**Phone:** +91 9966904179
-
-**Address:** Tiruvuru
+- **Name:** Ramesh M
+- **Father's Name:** Naga Raju M
+- **Email:** rameshmangalagiri33@gmail.com
+- **Phone:** +91 9966904179
+- **Address:** Tiruvuru
 
 #### Educational Details
 
